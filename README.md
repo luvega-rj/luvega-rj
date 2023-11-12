@@ -1,7 +1,7 @@
-- 👋 Hi, I’m a recent Moringa school graduate
-- 👀 I’m interested in Backend 
+- 👋 Hi, I’m a recent Moringa school Software Development Graduate.
+- 👀 I’m interested in Back-end web Development
 - 🌱 I’m currently learning Django and also Laravel beginner
-- 💞️ I’m looking to collaborate on open-source projects especially good first issues on Python)flask)and React.js.
+- 💞️ I’m looking to collaborate on open-source projects especially good first issues on Python(flask)and React.js.
 - 📫 How to reach me luvegaronny@gmail.com
 
 <!---
